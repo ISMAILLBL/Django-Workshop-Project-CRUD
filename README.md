@@ -1,4 +1,4 @@
-# 🧩 Django Workshop Project (Atelier 8)
+# 🧩 Django Workshop Project
 
 This project is a web application developed during a Django workshop
 (Atelier 8). It demonstrates the implementation of a complete CRUD
@@ -77,3 +77,4 @@ The project follows the Django MVT pattern:
 ## 👨‍💻 Author
 
 Ismail Boulaich
+
