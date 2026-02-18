@@ -75,6 +75,7 @@ The project follows the Django MVT pattern:
 
 ## 👨‍💻 Author
 
-Ismail Boulaich
+Ismail Boulaich 
+
 
 
